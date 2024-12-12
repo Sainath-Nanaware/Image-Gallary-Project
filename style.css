@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-   background-color: rgba(183, 224, 208, 0.905);
+   /* background-color: rgba(183, 224, 208, 0.905); */
    background-image: url("./images/iplTrophy.webp");
 }
 
